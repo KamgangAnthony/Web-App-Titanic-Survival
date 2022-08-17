@@ -65,7 +65,7 @@ The steps I took in this phase:
 
 ## Model Building 
 
-I just used 'Age', 'Fare', 'Pclass', 'Sex', 'Embarked', 'IsAlone', and 'Title' because according to EDA they were the most relevant.
+I just used 'Age', 'Fare', 'Pclass', 'Sex', 'Embarked', 'IsAlone', and 'Title' because according to EDA they were the most relevant. <br>
 Created a numerical pipeline, then a categorical pipeline, and then united them.
 
 <p align="left">
@@ -75,7 +75,7 @@ Created a numerical pipeline, then a categorical pipeline, and then united them.
 </p>
 
 
-Then I passed the features through the pipeline
+Then I passed the features through the pipeline <br>
 Then I applied several machine learning models to the data and computed their cross validation scores on a validation set
 <p align="left">
   <a href="https://did-you-survive-the-titanic.herokuapp.com/">
@@ -83,7 +83,7 @@ Then I applied several machine learning models to the data and computed their cr
   </a>
 </p>
 
-I plotted the learning curves for all of those models to see who would overfit or underfit
+I plotted the learning curves for all of those models to see who would overfit or underfit<br>
 I finally settled on an SVM, tuned it using gridsearchcv and computed its accuracy
 
 
