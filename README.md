@@ -2,11 +2,11 @@
 
 <p align="center">
 
-  Come and check your chances of surviving the titanic shipwreck in this web <a href="https://did-you-survive-the-titanic.herokuapp.com/">app
+  Come and check your chances of surviving the titanic shipwreck in this web <a href="https://web-app-titanic-survival-a81fad2fbdde.herokuapp.com/">app
   </a>
 </p>
 <p align="center">
-  <a href="https://did-you-survive-the-titanic.herokuapp.com/">
+  <a href="https://web-app-titanic-survival-a81fad2fbdde.herokuapp.com/"> 
     <img src="https://user-images.githubusercontent.com/50509053/185045576-4d4f78ce-1ad5-49a5-9756-0393b9088cb7.png" alt="Logo" width=700 height=250>
   </a>
 </p>
@@ -78,7 +78,7 @@ Created a numerical pipeline, then a categorical pipeline, and then united them.
 Then I passed the features through the pipeline <br>
 Then I applied several machine learning models to the data and computed their cross validation scores on a validation set
 <p align="left">
-  <a href="https://did-you-survive-the-titanic.herokuapp.com/">
+  <a href="https://web-app-titanic-survival-a81fad2fbdde.herokuapp.com/">
     <img src="https://user-images.githubusercontent.com/50509053/185145577-7bdfff38-cc57-4a97-997c-c279feafb287.png" alt="Logo" width=700 height=750>
   </a>
 </p>
@@ -103,7 +103,7 @@ Here I used ensembling algorithms to try to improve the model(Due to computation
   <a href="https://did-you-survive-the-titanic.herokuapp.com/">Try the app</a>
 </p>
 <p align="center">
-  <a href="https://did-you-survive-the-titanic.herokuapp.com/">
+  <a href="https://web-app-titanic-survival-a81fad2fbdde.herokuapp.com/">
     <img src="https://user-images.githubusercontent.com/50509053/185149779-e30b649d-5bfd-4220-b51e-09a5c8359a70.png" alt="Logo" width=400 height=100>
   </a>
 </p>
